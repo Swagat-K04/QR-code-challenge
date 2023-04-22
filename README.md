@@ -26,7 +26,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: http://127.0.0.1:5500/qr-code-component-main/index.html
+- Live Site URL: https://swagat-k04.github.io/QR-code-challenge/
 
 ## My process
 

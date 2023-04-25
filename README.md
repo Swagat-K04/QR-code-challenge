@@ -56,7 +56,7 @@ This section helped me center the main content.
 
 ### Continued development
 
-I am trying to focus on learning css grid anf flexbox in detail.
+I am learning css grid and flexbox in detail.
 
 ## Author
 

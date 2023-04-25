@@ -50,6 +50,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
     justify-content: center;
     height: 100vh;
 }
+```
 
 This section helped me center the main content.
 

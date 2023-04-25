@@ -25,7 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/qrcode-page-using-css-flex-VYVqm9rYnH
 - Live Site URL: https://swagat-k04.github.io/QR-code-challenge/
 
 ## My process
